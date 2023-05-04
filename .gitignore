@@ -1,0 +1,12 @@
+.env
+env
+venv
+.venv
+
+# add .pyc files
+*.pyc
+# add __pycache__ dir
+__pycache__/
+
+# add migrations dir
+migrations/
